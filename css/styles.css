@@ -1,0 +1,14 @@
+@import url('reset.css');
+
+body{
+    font-size: 14px;
+    font-weight: 500;
+    color: #000;
+    font-family: 'Manrope', sans-serif;
+}
+
+.container{
+    max-width: 375px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
