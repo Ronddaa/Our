@@ -7,3 +7,68 @@
     padding: 0 15px;
     margin: 0 auto;
 }
+
+/* header start */
+
+.header{
+    margin-bottom: 40px;
+}
+
+.wrapper-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+/* section hero start */
+
+.title-main{
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 1; 
+    letter-spacing: 0.64px;
+    margin-bottom: 10px;
+}
+
+.title-main-second{
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+.p-text-main{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.7px;
+    margin-bottom: 30px;
+}
+
+.main-text-span{
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.main-consultation-btn{
+    padding: 13px 32px;
+    background-color: #eed135;
+    font-size: 12px;
+    font-weight: 800;
+    line-height: 1.5;
+    letter-spacing: 0.36px;
+    border: 0;
+    border-radius: 40px;
+    margin-bottom: 60px;
+}
+
+.wrapper-social-icon{
+    display: flex;
+    gap: 32px;
+    justify-content: center;
+}
+
+/* section hero end */
+
+/* section about us */
+
